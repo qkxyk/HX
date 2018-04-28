@@ -1,0 +1,15 @@
+D:\practice\C#\Apr\Test\Test.Service\bin\Debug\Test.Service.dll
+D:\practice\C#\Apr\Test\Test.Service\bin\Debug\Test.Service.pdb
+D:\practice\C#\Apr\Test\Test.Service\bin\Debug\Test.Model.dll
+D:\practice\C#\Apr\Test\Test.Service\bin\Debug\Test.Repository.dll
+D:\practice\C#\Apr\Test\Test.Service\bin\Debug\EntityFramework.dll
+D:\practice\C#\Apr\Test\Test.Service\bin\Debug\Test.Model.pdb
+D:\practice\C#\Apr\Test\Test.Service\bin\Debug\Test.Model.dll.config
+D:\practice\C#\Apr\Test\Test.Service\bin\Debug\Test.Repository.pdb
+D:\practice\C#\Apr\Test\Test.Service\bin\Debug\Test.Repository.dll.config
+D:\practice\C#\Apr\Test\Test.Service\bin\Debug\EntityFramework.xml
+D:\practice\C#\Apr\Test\Test.Service\obj\Debug\Test.Service.csprojResolveAssemblyReference.cache
+D:\practice\C#\Apr\Test\Test.Service\obj\Debug\Test.Service.csproj.CoreCompileInputs.cache
+D:\practice\C#\Apr\Test\Test.Service\obj\Debug\Test.Service.csproj.CopyComplete
+D:\practice\C#\Apr\Test\Test.Service\obj\Debug\Test.Service.dll
+D:\practice\C#\Apr\Test\Test.Service\obj\Debug\Test.Service.pdb

@@ -1,0 +1,32 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<input type="button" id="AddDeviceType" value="添加设备类型" />
+<input type="button" id="DeleteDeviceType" value="删除设备类型" />
+<input type="text" id="txt" />
+
+@section scripts
+{
+    <script>
+        $(function () {
+            $("#AddDeviceType").click(function () {
+                console.log("aaa");
+                $.post("/home/AddType", { name: "污水处理设备" }, function (data) {
+                    data = JSON.parse(data);
+                    alert(data.TypeName);
+                    console.log(data);
+                    console.log(data.TypeName);
+                });
+            });
+            
+            $("#DeleteDeviceType").click(function () {
+                var s = $("#txt").val();
+                console.log(s);
+                $.post("/home/DeleteType", { id: s }, function (data) {
+                    console.log(data);
+                });
+            });
+        });
+    </script>
+}
